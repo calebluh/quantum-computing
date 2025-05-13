@@ -1,5 +1,6 @@
-# Qiskit code for first circuit created, named Bello World for its use of a Bell state
-# and a play on words for the overused Hello World joke.
+# Qiskit code for the first circuit created, named Bello World, for its use of a Bell state
+# and a play on words for the overused Hello World running gag. In this folder are also
+# the corresponding files for a view of the composer, and my notes that relate to this specifically.
 from qiskit import QuantumRegister, ClassicalRegister, QuantumCircuit
 from numpy import pi
 
