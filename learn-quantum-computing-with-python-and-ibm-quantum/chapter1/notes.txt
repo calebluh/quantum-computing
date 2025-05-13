@@ -1,0 +1,6 @@
+In the first chapter, we went over the following:
+
+Registering for the IBM Quantum Platform
+Understanding the Manage account settings view
+Getting familiar with the Computer resources view
+Learning about pending and latest jobs
