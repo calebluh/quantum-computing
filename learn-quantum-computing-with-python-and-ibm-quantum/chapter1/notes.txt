@@ -6,7 +6,7 @@ In the first chapter, we went over the following:
 -Learning about pending and latest jobs
 
 Set up an account with IBM Quantum at-
-https://quantum.ibm.com/
+https://quantum.cloud.ibm.com/ (Migration from https://quantum.ibm.com/ which closes July 1st 2025)
 
 Definitions to know-
 2Q error (best): The best (lowest) error rate observed on any device edge.
