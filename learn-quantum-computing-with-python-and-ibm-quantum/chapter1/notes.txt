@@ -1,9 +1,14 @@
 In the first chapter, we went over the following:
 
-Registering for the IBM Quantum Platform
-Understanding the Manage account settings view
-Getting familiar with the Computer resources view
-Learning about pending and latest jobs
+-Registering for the IBM Quantum Platform
+-Understanding the Manage account settings view
+-Getting familiar with the Computer resources view
+-Learning about pending and latest jobs
 
-Set up an account with IBM Quantum at
+Set up an account with IBM Quantum at-
 https://quantum.ibm.com/
+
+Definitions to know-
+2Q error (best): The best (lowest) error rate observed on any device edge.
+2Q error (layered): Average Error Per Layered Gate (EPLG) is used to measure the quality and performance.
+Circuit Layer Operations Per Second (CLOPS): Measurement of how many layers of a Quantum volume circuit can be processed by a QPU per unit of time. 
